@@ -1,0 +1,4 @@
+github:
+  api:
+    client:
+      url: https://api.github.com
